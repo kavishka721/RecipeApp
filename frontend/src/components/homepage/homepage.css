@@ -1,0 +1,17 @@
+.homecontainer {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url("./home_background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    width: 100%;
+
+}
+
+.homecontainer h1 {
+    color: white;
+    font-size: 75px;
+}
+
+.homecontainer button {
+    float: right;
+}
